@@ -1,0 +1,49 @@
+body {
+background-color: peachpuff;
+}
+.q {
+    background-color: gold;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    color: purple;
+}
+div {
+    border: 2px solid black;
+    padding: 5px 15px;
+}
+.tr {
+    float: left;
+    margin-right: 10px;
+    max-width: 200px;
+    min-width: 150px;
+    background-color: darksalmon;
+}
+.ty {
+    float: right;
+    max-width: 1000px;
+    min-width: 950px;
+    background-color: sandybrown;
+
+}
+table {
+    border: 2px solid black;
+    height: 100px;
+    background-color: lightsalmon;
+}
+th {
+    background-color: wheat;
+}
+img {
+    width: auto;
+    height: 150px;
+}
+.s {
+    height: 300px;
+    width: auto;
+}
